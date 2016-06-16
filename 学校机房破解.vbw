@@ -1,0 +1,5 @@
+MainForm = 230, -17, 1000, 591, , 25, 25, 795, 491, C
+ProcessControl = 150, 150, 934, 606, 
+NativeAPIDeclare = 125, 125, 909, 581, 
+SearchPID = 75, 75, 859, 531, 
+mod_Process = 175, 175, 945, 641, Z
